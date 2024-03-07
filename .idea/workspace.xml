@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e413ed57-efe9-49f0-9ef6-ff004a95e54f" name="Changes" comment="" />
+    <list default="true" id="e413ed57-efe9-49f0-9ef6-ff004a95e54f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/DogInheritence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/GermanShepherd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhonePackage/Android.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhonePackage/Android.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhonePackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhonePackage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhonePackage/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhonePackage/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhonePackage/iPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhonePackage/iPhone.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2d202YCpurdnJSgUCoXJm0aW6jt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +41,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Hormoz Halimi/IdeaProjects/untitled6/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hormoz Halimi\IdeaProjects\untitled6\src" />
+      <recent name="C:\Users\Hormoz Halimi\IdeaProjects\untitled6" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Inheritence" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +65,16 @@
       <updated>1709190662399</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

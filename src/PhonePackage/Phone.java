@@ -1,4 +1,4 @@
-package CSC133;
+package PhonePackage;
 
 
 public class Phone {
