@@ -7,6 +7,8 @@ public class GermanShepherd extends DogInheritence{
     public GermanShepherd (){
 
         super("small", "red");
+
+
     }
 
     ///overload
@@ -22,6 +24,7 @@ public class GermanShepherd extends DogInheritence{
 
     @Override
     public void bark(){
+
         System.out.println("loud bark");
     }
 }
